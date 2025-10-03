@@ -43,10 +43,12 @@ cat /var/log/netdata/error.log
 ```
 ## 📸 Screenshots
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c1540594-83af-4be0-bee6-8c50c8e74863" />
-<img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/59c3af9e-0622-42d3-aec6-79d67122af97" />
-<img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/c11c14a0-a4b7-4c4c-8957-00007dea6e94" />
-<img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/08f4f4d6-32a4-4602-8aa5-baf8c49c6e64" />
-<img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/ce7719a8-6ed2-496f-a8a9-e1f0013fad82" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/59c3af9e-0622-42d3-aec6-79d67122af97" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c11c14a0-a4b7-4c4c-8957-00007dea6e94" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/08f4f4d6-32a4-4602-8aa5-baf8c49c6e64" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/ce7719a8-6ed2-496f-a8a9-e1f0013fad82" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/8ea61bbc-41c5-451d-a1f0-38886470fece" />
+
 
 
 
